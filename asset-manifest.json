@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/todolist/static/css/main.b42f3472.css",
+    "main.js": "/todolist/static/js/main.10997ef5.js",
+    "static/js/377.7662a5c4.chunk.js": "/todolist/static/js/377.7662a5c4.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/todolist/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/todolist/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/todolist/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/todolist/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/todolist/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/todolist/index.html",
+    "main.b42f3472.css.map": "/todolist/static/css/main.b42f3472.css.map",
+    "main.10997ef5.js.map": "/todolist/static/js/main.10997ef5.js.map",
+    "377.7662a5c4.chunk.js.map": "/todolist/static/js/377.7662a5c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b42f3472.css",
+    "static/js/main.10997ef5.js"
+  ]
+}
